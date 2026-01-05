@@ -9,7 +9,7 @@
 - <b>Bayesian Analysis of Professional Powerlifting (R, LaTeX)</b>
   - [change this to a link](https://github.com/AlejandroG027/Bayesian-Analysis-of-Professional-Powerlifting.git)
 - <b>Linear Analysis of US Crime Rates</b>
-  - [change to link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [change to link](https://github.com/AlejandroG027/Linear-Analysis-of-US-Crime-Rates.git)
 - <b>Analyzing Research Papers</b>
   - [change to link](https://github.com/AlejandroG027/Analyzing-Research-Papers.git)
 
