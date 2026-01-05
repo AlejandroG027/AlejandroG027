@@ -11,7 +11,7 @@
 - <b>Linear Analysis of US Crime Rates</b>
   - [change to link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Analyzing Research Papers</b>
-  - [change to link](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [change to link](https://github.com/AlejandroG027/Analyzing-Research-Papers.git)
 
 <h2> 🤳 Connect with me:</h2>
 
