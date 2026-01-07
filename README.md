@@ -1,5 +1,7 @@
-<h1>Hi, I'm Alejandro! <br/><a href="https://github.com/AlejandroG027">Undergraduate Statistics Major & Reseach Assistant</a> 
+<h1>Hi, I'm Alejandro! <br/><a href="https://github.com/AlejandroG027">Undergraduate Statistics Major & Reseach Assistant</a>
   
+<h2>🎓 Current Education and Occupation:</h2>
+
 - Undergraduate Student at California Polytechnic State University, San Luis Obispo
 
 - Research Assistant at the Cal Poly Department of Statistics under Dr. Julia C. Schedler
