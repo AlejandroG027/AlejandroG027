@@ -3,6 +3,7 @@
 <h2>🎓 Current Education and Occupation:</h2>
 
 - Undergraduate Student at California Polytechnic State University, San Luis Obispo
+    - BS Statistics
 
 - Research Assistant at the Cal Poly Department of Statistics under Dr. Julia C. Schedler
 
