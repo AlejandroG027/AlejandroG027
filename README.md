@@ -13,7 +13,7 @@
   - [Click Here](https://github.com/AlejandroG027/Bayesian-Analysis-of-Professional-Powerlifting.git)
 - <b>Linear Analysis of US Crime Rates</b>
   - [Click Here](https://github.com/AlejandroG027/Linear-Analysis-of-US-Crime-Rates.git)
-- <b>Analyzing Research Papers</b>
+- <b>Analyzing Statistical Research Papers: SAR and CAR Models</b>
   - [Click Here](https://github.com/AlejandroG027/Analyzing-Research-Papers.git)
 - <b>Statistical Analysis Guide to R</b>
   - [Click Here](https://github.com/AlejandroG027/Statistical-Analysis-With-R.git)
