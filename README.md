@@ -14,7 +14,7 @@
   - [Click Here](https://github.com/AlejandroG027/Linear-Analysis-of-US-Crime-Rates.git)
 - <b>Analyzing Research Papers</b>
   - [Click Here](https://github.com/AlejandroG027/Analyzing-Research-Papers.git)
-- <b>Statistical Analysis with R</b>
+- <b>Statistical Analysis Guide to R</b>
   - [Click Here](https://github.com/AlejandroG027/Statistical-Analysis-With-R.git)
 
 <h2> 🤳 Connect with me:</h2>
