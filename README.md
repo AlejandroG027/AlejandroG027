@@ -19,6 +19,9 @@
   - [Click Here](https://github.com/AlejandroG027/Statistical-Analysis-With-R.git)
 - <b>General Coding Guide to Java</b>
   - [Click Here](https://github.com/AlejandroG027/general-coding-with-java.git)
+- <b>Logistic Regression and TF-IDF in Detecting Fake News</b>
+  - [Click Here](https://github.com/AlejandroG027/fake_news_with_log_reg.git)
+
     
 
 <h2> 🤳 Connect with me:</h2>
