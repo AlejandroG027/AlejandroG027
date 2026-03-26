@@ -21,6 +21,8 @@
   - [Click Here](https://github.com/AlejandroG027/general-coding-with-java.git)
 - <b>Logistic Regression and TF-IDF in Detecting Fake News</b>
   - [Click Here](https://github.com/AlejandroG027/fake_news_with_log_reg.git)
+- <b>Using Convolutional Neural Networks to identify abnormalities in Knee MRI Scans</b>
+  - [Click Here](https://github.com/Iman-J-Gangeh/Medical-Imaging-CSC480.git)
 
     
 
