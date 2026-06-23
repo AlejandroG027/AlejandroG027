@@ -3,10 +3,10 @@
 <h2>🎓 Current Education and Occupation:</h2>
 
 - California Polytechnic State University, San Luis Obispo
-    - <b> BS Statistics <b>
+    - <b> BS Statistics </b>
     - Was a Research Assistant at the Cal Poly Department of Statistics under Dr. Julia C. Schedler
 - Current Student at the University of California, San Diego
-    - MS Data Science
+    - <b> MS Data Science </b>
     - Expected Graduation: March 2028
 
 <h2>👨‍💻 Statistics and Programming Projects:</h2>
